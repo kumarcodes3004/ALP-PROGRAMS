@@ -1,0 +1,1 @@
+.\binarysir.o: binarysir.s
